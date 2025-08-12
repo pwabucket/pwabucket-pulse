@@ -1,5 +1,12 @@
 # Quest 01: Stellar Heist (✅ Completed)
 
+<p align="center">
+  <img src="resources/tweet-1955355787225641167.png" width="49%" />
+  <img src="resources/tweet-1955356783633129497.png" width="49%" />
+</p>
+
+Completion: https://x.com/pwabucket/status/1955355787225641167
+
 **🔐 Mission Briefing**
 
 **Your mission**, should you choose to accept it: **Unlock the encrypted Stellar Wallet** and claim the XLM inside.
