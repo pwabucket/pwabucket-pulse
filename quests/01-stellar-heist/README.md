@@ -26,6 +26,8 @@ The clock is ticking.
 
 [⬇️ Download the Safe bundle](resources/safe-bundle.zip)
 
+📡 Upon success, transmit your mission report to HQ: [@pwabucket](https://x.com/pwabucket)
+
 ---
 
 ## Reward
