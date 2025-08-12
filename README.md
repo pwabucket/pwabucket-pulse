@@ -16,18 +16,19 @@ Here you’ll find:
 ---
 
 ## 🎯 Current Quest
+*(No active quest)*
 
-### [Quest 01: Stellar Heist](quests/01-stellar-heist/README.md)
-**Status:** 🟢 Active  
-A Stellar wallet is locked inside an encrypted Safe bundle.  
-We’ve intercepted part of the access code — can you recover the rest and claim the XLM inside?
 
-[🔍 View Quest Details](quests/01-stellar-heist/README.md)
 
 ---
 
 ## 📚 Archive
-*(No completed quests yet)*
+### [Quest 01: Stellar Heist](quests/01-stellar-heist/README.md)
+**Status:** 🎉 Completed  
+A Stellar wallet is locked inside an encrypted Safe bundle.  
+We’ve intercepted part of the access code — can you recover the rest and claim the XLM inside?
+
+[🔍 View Quest Details](quests/01-stellar-heist/README.md)
 
 ---
 

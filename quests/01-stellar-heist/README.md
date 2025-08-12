@@ -1,4 +1,4 @@
-# Quest 01: Stellar Heist
+# Quest 01: Stellar Heist (✅ Completed)
 
 **🔐 Mission Briefing**
 
